@@ -3,7 +3,7 @@
 
 ---
 
-> *"I did not come from a cybersecurity background. I came from construction management, built networks for a luxury retail brand, taught myself security in a home lab at midnight, and rebuilt myself into a GRC professional — one project at a time. Every repository on this profile is proof that determination is more powerful than a perfect starting point."*
+> *"I did not come from a cybersecurity background. I came from construction management, built networks for a luxury retail brand, taught myself security in a home lab at midnight, and rebuilt myself into a GRC professional, one project at a time. Every repository on this profile is proof that determination is more powerful than a perfect starting point."*
 
 ---
 
@@ -13,7 +13,7 @@ My name is Bakithi Scott Ngcampalala. I am a cybersecurity and GRC professional 
 
 My journey into cybersecurity is not conventional. I started my career in **civil engineering and project management**, working on the SAICE Award-winning Mount Edgecombe Interchange project. I then moved into IT support, network administration and eventually cybersecurity, first at Barbed Era Luxury where I managed Cisco and MikroTik infrastructure, Splunk SIEM, Veeam backups and Microsoft 365/Intune across a retail and e-commerce operation, and then into GRC.
 
-What drives me is simple: **South Africa has a cybersecurity crisis.** The Information Regulator receives over 150 breach notifications every month. The average cost of a SA data breach hit R53.1 million in 2024. Human error causes 95% of SA breaches. Organisations are being destroyed by attacks that proper governance, risk management and compliance frameworks would have prevented. I want to be part of the solution — not just as someone who understands the frameworks on paper, but as someone who can actually implement them, measure their effectiveness and continuously improve them.
+What drives me is simple: **South Africa has a cybersecurity crisis.** The Information Regulator receives over 150 breach notifications every month. The average cost of a SA data breach hit R53.1 million in 2024. Human error causes 95% of SA breaches. Organisations are being destroyed by attacks that proper governance, risk management and compliance frameworks would have prevented. I want to be part of the solution not just as someone who understands the frameworks on paper, but as someone who can actually implement them, measure their effectiveness and continuously improve them.
 
 ---
 
@@ -21,7 +21,7 @@ What drives me is simple: **South Africa has a cybersecurity crisis.** The Infor
 
 My goal is to become a **Certified ISO 27001 Lead Implementer and GRC Analyst** who operates at the intersection of technical security and business risk. I want to work with organisations that take security seriously — where I can lead real ISMS implementations, conduct meaningful risk assessments, build security awareness programmes that actually change behaviour, and produce audit-ready documentation that stands up to scrutiny from certification bodies and regulators alike.
 
-I am not interested in checkbox compliance. I am interested in **security that works** — controls that are implemented because they reduce real risk, not just because a framework says they should exist. Every project in my portfolio reflects this philosophy. Each one is built around a real South African incident, a real regulation, and a real business problem.
+I am not interested in checkbox compliance. I am interested in **security that works** controls that are implemented because they reduce real risk, not just because a framework says they should exist. Every project in my portfolio reflects this philosophy. Each one is built around a real South African incident, a real regulation, and a real business problem.
 
 I am currently completing **CompTIA Security+** and working toward the **ISO 27001 Lead Implementer** qualification. My medium-term goal is to lead the ISO 27001:2022 Stage 1 and Stage 2 certification audits at Open Vantage and use that experience as the foundation for a career in GRC consulting across South African enterprises.
 
