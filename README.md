@@ -1,4 +1,4 @@
-# Bakithi Scott Ngcampalala 👋
+# Bakithi Scott Ngcampalala 
 ### Cybersecurity & GRC Professional | Junior Security Administrator @ Open Vantage | Sandton, Johannesburg 🇿🇦
 
 ---
